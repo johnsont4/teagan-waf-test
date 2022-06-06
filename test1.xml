@@ -29,7 +29,7 @@
           <gmd:address>
             <gmd:CI_Address>
               <gmd:deliveryPoint>
-                <gco:CharacterString>National Center for Atmospheric Research</gco:CharacterString>
+                <gco:CharacterString>National Center for Atmospheric Research FOO</gco:CharacterString>
               </gmd:deliveryPoint>
               <gmd:deliveryPoint>
                 <gco:CharacterString>CISL/DSS</gco:CharacterString>
