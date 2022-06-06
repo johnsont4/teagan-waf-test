@@ -15,7 +15,7 @@
   <gmd:contact>
     <gmd:CI_ResponsibleParty>
       <gmd:organisationName>
-        <gco:CharacterString>NCAR Research Data Archive Stuff</gco:CharacterString>
+        <gco:CharacterString>NCAR Research Data Archive</gco:CharacterString>
       </gmd:organisationName>
       <gmd:contactInfo>
         <gmd:CI_Contact>
