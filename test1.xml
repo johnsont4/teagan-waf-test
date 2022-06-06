@@ -508,7 +508,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://www.google.com/search?q=funny+cat&rlz=1C5GCEM_enUS1008US1008&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjIxfvp0pn4AhVPCM0KHU8GCMUQ_AUoAXoECAIQAw&biw=1539&bih=829&dpr=2/</gmd:URL>
+                <gmd:URL>https://www.espn.com/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>https</gco:CharacterString>
