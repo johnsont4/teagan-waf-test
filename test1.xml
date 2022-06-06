@@ -136,7 +136,7 @@
       <gmd:pointOfContact>
         <gmd:CI_ResponsibleParty>
           <gmd:individualName>
-            <gco:CharacterString>Teagan Johnson</gco:CharacterString>
+            <gco:CharacterString>Teagan Johnson and co</gco:CharacterString>
           </gmd:individualName>
           <gmd:organisationName>
             <gco:CharacterString>UCAR/NCAR - Research Data Archive</gco:CharacterString>
