@@ -197,7 +197,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>REMOTE 11:48. The Joint Effort for Data assimilation Integration (JEDI) software package is a unified, innovative data assimilation system for Earth System Prediction.  Developed and distributed by UCP&apos;s Joint Center for Satellite Data Assimilation (JCSDA), JEDI is versatile and sophisticated enough for a variety of applications, from operational weather forecasting and atmospheric research on High Performance Computing (HPC) platforms to learning the fundamentals of data assimilation by running idealized toy models on your laptop.
+                <gco:CharacterString>WOW IS THIS BROKEN The Joint Effort for Data assimilation Integration (JEDI) software package is a unified, innovative data assimilation system for Earth System Prediction.  Developed and distributed by UCP&apos;s Joint Center for Satellite Data Assimilation (JCSDA), JEDI is versatile and sophisticated enough for a variety of applications, from operational weather forecasting and atmospheric research on High Performance Computing (HPC) platforms to learning the fundamentals of data assimilation by running idealized toy models on your laptop.
 
 This data set provides example observation files, model backgrounds, and other input files needed to run a variety of JEDI applications, including the comprehensive suite of unit tests and example activities that are described in online tutorials.
 
