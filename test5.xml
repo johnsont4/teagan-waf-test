@@ -94,7 +94,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString></gco:CharacterString>
+            <gco:CharacterString>This is the new file hehe haha</gco:CharacterString>
           </gmd:title>
           <gmd:alternateTitle>
             <gco:CharacterString>ds018.1</gco:CharacterString>
